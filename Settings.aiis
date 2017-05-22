@@ -179,8 +179,30 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "f25d9785-2f01-4a44-8974-9a5c6cb4f919",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/TestProject160.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/TestProject160.git"
+          }
+        },
+        "ServerType": 2,
+        "CredentialsInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitConnectInfo",
+          "__value": {
+            "IsLocal": false,
+            "RepositoryPath": "https://github.com/kalchev/TestProject160.git",
+            "UserName": "kalchev",
+            "Email": "kaloyan.kalchev@progress.com",
+            "GitPasswordEncrypted": "uLTbPdnBDpVC6v5OWWZlhwIFcNry6mnUGRswz3sJ9lba1VRVi3paWP95DateBvbz"
+          }
+        }
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
