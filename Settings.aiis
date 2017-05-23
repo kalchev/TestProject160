@@ -15,7 +15,7 @@
     "CodeGenerationElementIdentificationType": 1,
     "UrlHistory": [],
     "AbsoluteDragDropRecording": true,
-    "ImageScalePercentage": 70,
+    "ImageScalePercentage": 80,
     "SelectedIdentificaitonScheme": "Html",
     "IdentificationSchemes": {
       "Html": {
@@ -190,16 +190,7 @@
           }
         },
         "ServerType": 2,
-        "CredentialsInfo": {
-          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitConnectInfo",
-          "__value": {
-            "IsLocal": false,
-            "RepositoryPath": "https://github.com/kalchev/TestProject160.git",
-            "UserName": "kalchev",
-            "Email": "kalchev@progress.com",
-            "GitPasswordEncrypted": "uLTbPdnBDpVC6v5OWWZlhwIFcNry6mnUGRswz3sJ9lba1VRVi3paWP95DateBvbz"
-          }
-        }
+        "CredentialsInfo": null
       }
     },
     "IsOnline": true,
