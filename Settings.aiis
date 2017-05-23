@@ -190,7 +190,16 @@
           }
         },
         "ServerType": 2,
-        "CredentialsInfo": null
+        "CredentialsInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitConnectInfo",
+          "__value": {
+            "IsLocal": false,
+            "RepositoryPath": "https://github.com/kalchev/TestProject160.git",
+            "UserName": "kalchev",
+            "Email": "kalchev@progress.com",
+            "GitPasswordEncrypted": "uLTbPdnBDpVC6v5OWWZlhwIFcNry6mnUGRswz3sJ9lba1VRVi3paWP95DateBvbz"
+          }
+        }
       }
     },
     "IsOnline": true,
