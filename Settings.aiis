@@ -189,11 +189,12 @@
             "ServerName": "https://github.com/kalchev/TestProject160.git"
           }
         },
-        "ServerType": 2
+        "ServerType": 2,
+        "CredentialsInfo": null
       }
     },
     "IsOnline": true,
-    "ProjectLanguage": 2,
+    "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
       "System.Core",
